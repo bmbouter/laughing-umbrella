@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# PyCharm
+.idea/
+
+# Django things to ignore
+laughing_umbrella/migrations/
+djangosite/
